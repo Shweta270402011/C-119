@@ -1,0 +1,29 @@
+#Model_is_trained_on {
+    background-color: white;
+    color: black;
+    width: 50%;
+    height: 75px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px gray;
+} 
+
+#copy_right {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+line-height: 3;
+}
+
+button {
+     box-shadow: 5px 5px 5px gray;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 350px;
+}   
